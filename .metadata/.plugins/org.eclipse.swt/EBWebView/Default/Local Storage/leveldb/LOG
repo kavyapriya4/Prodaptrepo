@@ -1,2 +1,3 @@
-2025/07/23-15:28:09.150 45f4 Creating DB D:\spring-tools-for-eclipse-4.31.0\sts-4.31.0.RELEASE\prodapt\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Local Storage\leveldb since it was missing.
-2025/07/23-15:28:09.175 45f4 Reusing MANIFEST D:\spring-tools-for-eclipse-4.31.0\sts-4.31.0.RELEASE\prodapt\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Local Storage\leveldb/MANIFEST-000001
+2025/07/23-15:39:48.694 287c Reusing MANIFEST D:\spring-tools-for-eclipse-4.31.0\sts-4.31.0.RELEASE\prodapt\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Local Storage\leveldb/MANIFEST-000001
+2025/07/23-15:39:48.703 287c Recovering log #3
+2025/07/23-15:39:48.709 287c Reusing old log D:\spring-tools-for-eclipse-4.31.0\sts-4.31.0.RELEASE\prodapt\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Local Storage\leveldb/000003.log 

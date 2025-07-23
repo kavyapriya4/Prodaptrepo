@@ -1,2 +1,3 @@
-2025/07/23-15:28:06.655 510c Creating DB D:\spring-tools-for-eclipse-4.31.0\sts-4.31.0.RELEASE\prodapt\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\shared_proto_db\metadata since it was missing.
-2025/07/23-15:28:06.666 510c Reusing MANIFEST D:\spring-tools-for-eclipse-4.31.0\sts-4.31.0.RELEASE\prodapt\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\shared_proto_db\metadata/MANIFEST-000001
+2025/07/23-15:39:42.602 1d90 Reusing MANIFEST D:\spring-tools-for-eclipse-4.31.0\sts-4.31.0.RELEASE\prodapt\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\shared_proto_db\metadata/MANIFEST-000001
+2025/07/23-15:39:42.604 1d90 Recovering log #3
+2025/07/23-15:39:42.605 1d90 Reusing old log D:\spring-tools-for-eclipse-4.31.0\sts-4.31.0.RELEASE\prodapt\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\shared_proto_db\metadata/000003.log 
